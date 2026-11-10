@@ -15,7 +15,10 @@ cd my-project
 
 ## Available templates
 
-_None yet. This is the go-forward home for reusable scaffolds._
+| Template | What it gives you |
+|---|---|
+| [`agent-team`](agent-team/) | A conductor ("Chief of Staff") plus specialist agents: `agent.yaml` identity card, conductor `CLAUDE.md` with a routing map, a worked multi-agent chain, and the shared hive-mind log schema. |
+| [`claude-setup`](claude-setup/) | A Claude Code config built on progressive disclosure: user `CLAUDE.md`, auto-loaded and path-scoped rules, on-demand reference files, a skill with its own references, an enforcement hook, and the memory index format. |
 
 ## Adding a template
 
